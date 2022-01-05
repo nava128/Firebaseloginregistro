@@ -1,6 +1,8 @@
 # flutter_login_ui
 - https://github.com/RajatPalankar8/Flutter_Login_Registration_UI
-
+- video
+- https://youtu.be/6u-mnYLLy3g
+- 
 A new Flutter Login Registration UI design
 - [Flutter Login Register Page UI Design using Velocity X](https://protocoderspoint.com/flutter-login-register-page-ui-design-adobexd-using-velocity-x-library/)
 
